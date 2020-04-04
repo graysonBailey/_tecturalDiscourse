@@ -1,0 +1,552 @@
+[
+  {
+    "PosX": 80,
+    "Type": "quote",
+    "PosY": -144,
+    "User": "9C-B6-D0-E7-72-19",
+    "Content": "q/ \"The entire material lies before me in the form of monographs, which were written not for publication but for self-clarification at widely separated periods; their remoulding into an integrated whole according to the plan I have indicated will depend upon circumstances\"",
+    "bib": {"source": 0},
+    "ID": 0,
+    "Base": "q/ \"The entire material lies before me in the form of monographs, which were written not for publication but for self-clarification at widely separated periods; their remoulding into an integrated whole according to the plan I have indicated will depend upon circumstances\""
+  },
+  {
+    "PosX": 271,
+    "Type": "response",
+    "PosY": 6,
+    "User": "9C-B6-D0-E7-72-19",
+    "Content": "r/ as its related to my current, this condition of the unregulated self-clarification being \"moulded\" into an integrated whole is a very interesting point of discursive requirement. The integrated whole will need to be deconstructed immediately by the conscious reader, reorganized into networks of idea-material relations and composed into self-clarifying monographs, regardless if on the page or which the memory storage of the mind.                   Especially if this is to be expected, is there a different format of record which does not attempt global coherence of construction in the final document, but rather provides the state at which it will need to be resolved - one of self-clarifications, but without forced integration...",
+    "bib": {"source": 0},
+    "ID": 1,
+    "Base": "r/ as its related to my current, this condition of the unregulated self-clarification being \"moulded\" into an integrated whole is a very interesting point of discursive requirement. The integrated whole will need to be deconstructed immediately by the conscious reader, reorganized into networks of idea-material relations and composed into self-clarifying monographs, regardless if on the page or which the memory storage of the mind.                   Especially if this is to be expected, is there a different format of record which does not attempt global coherence of construction in the final document, but rather provides the state at which it will need to be resolved - one of self-clarifications, but without forced integration..."
+  },
+  {
+    "PosX": 131,
+    "Type": "other",
+    "PosY": -329,
+    "User": "9C-B6-D0-E7-72-19",
+    "Content": "A Contribution to the Critique of Political Economy, by Karl Marx, 1859. Accessed via marxists.org/archive/marx/works/1859/critique-pol-economy",
+    "bib": {"source": 0},
+    "ID": 2,
+    "Base": "A Contribution to the Critique of Political Economy, by Karl Marx, 1859. Accessed via marxists.org/archive/marx/works/1859/critique-pol-economy"
+  },
+  {
+    "PosX": 511,
+    "Type": "other",
+    "PosY": -101,
+    "User": "9C-B6-D0-E7-72-19",
+    "Content": "Preface",
+    "bib": {"source": 0},
+    "ID": 3,
+    "Base": "Preface"
+  },
+  {
+    "PosX": 64,
+    "Type": "quote",
+    "PosY": 324,
+    "User": "9C-B6-D0-E7-72-19",
+    "Content": "q/ \"In the social production of their existence, men inevitably enter into definite relations, which are independent of their will, namely relations of production appropriate toa  given stage in the development of their mateiral forces of production. The totality of these relations of production constitutes the economic structure of society, the real foundation , on which arises a legal and political superstructure and to which correspond definite forms of social consciousness.\"",
+    "bib": {"source": 0},
+    "ID": 4,
+    "Base": "q/ \"In the social production of their existence, men inevitably enter into definite relations, which are independent of their will, namely relations of production appropriate toa  given stage in the development of their mateiral forces of production. The totality of these relations of production constitutes the economic structure of society, the real foundation , on which arises a legal and political superstructure and to which correspond definite forms of social consciousness.\""
+  },
+  {
+    "PosX": 525,
+    "Type": "response",
+    "PosY": 389,
+    "User": "9C-B6-D0-E7-72-19",
+    "Content": "r/ alright, so here we get the basics of the base-superstructure argument so strong in much of Marxism until late. Does this as a statement negate the social relations ideas of Gustav Landauer, insomuch that the state is a network of social relations and that changing the conditions of our relations changes the state - or is it exactly in line? If our definite relations are independent of our will, it would seem to deny our ability to change our relations network, even the call to revolution would seem an outright positivist suggestion that changing our relations is necessary rather than allowing them to slowly change themselves.",
+    "bib": {"source": 0},
+    "ID": 5,
+    "Base": "r/ alright, so here we get the basics of the base-superstructure argument so strong in much of Marxism until late. Does this as a statement negate the social relations ideas of Gustav Landauer, insomuch that the state is a network of social relations and that changing the conditions of our relations changes the state - or is it exactly in line? If our definite relations are independent of our will, it would seem to deny our ability to change our relations network, even the call to revolution would seem an outright positivist suggestion that changing our relations is necessary rather than allowing them to slowly change themselves."
+  },
+  {
+    "PosX": 79,
+    "Type": "quote",
+    "PosY": 536,
+    "User": "9C-B6-D0-E7-72-19",
+    "Content": "q/ \"From forms of development of the productive forces these relations turn to their fetters. Then begins an era of social revolution. The hanges in the economic foundation lead sooner or later to the transformation of the whole immense superstructure.\"",
+    "bib": {"source": 0},
+    "ID": 6,
+    "Base": "q/ \"From forms of development of the productive forces these relations turn to their fetters. Then begins an era of social revolution. The hanges in the economic foundation lead sooner or later to the transformation of the whole immense superstructure.\""
+  },
+  {
+    "PosX": 584,
+    "Type": "response",
+    "PosY": 611,
+    "User": "9C-B6-D0-E7-72-19",
+    "Content": "r/ So, here are the conditions of immediacy within these social relation-constructs. Still, following Marx's logic, is this not merely the continued base-superstructure relation, insomuch that violent revolution takes place mostly as the superstructure, while productive relations remains relatively unchanged, even conceding the momentary lapses of events like the Paris Commune. (No spanish civil war because Marx cannot condition an argument toward future events.)",
+    "bib": {"source": 0},
+    "ID": 7,
+    "Base": "r/ So, here are the conditions of immediacy within these social relation-constructs. Still, following Marx's logic, is this not merely the continued base-superstructure relation, insomuch that violent revolution takes place mostly as the superstructure, while productive relations remains relatively unchanged, even conceding the momentary lapses of events like the Paris Commune. (No spanish civil war because Marx cannot condition an argument toward future events.)"
+  },
+  {
+    "PosX": 47,
+    "Type": "quote",
+    "PosY": 685,
+    "User": "9C-B6-D0-E7-72-19",
+    "Content": "q/ \"No social order is ever destroyed before all the productive forces for which it is sufficient have been developed, and new superior relations of production never replace older ones before the material conditions for their existene have matured within the framework of the old society.\"",
+    "bib": {"source": 0},
+    "ID": 8,
+    "Base": "q/ \"No social order is ever destroyed before all the productive forces for which it is sufficient have been developed, and new superior relations of production never replace older ones before the material conditions for their existene have matured within the framework of the old society.\""
+  },
+  {
+    "PosX": 93,
+    "Type": "response",
+    "PosY": 656,
+    "User": "9C-B6-D0-E7-72-19",
+    "Content": "r/ asked and answered",
+    "bib": {"source": 0},
+    "ID": 9,
+    "Base": "r/ asked and answered"
+  },
+  {
+    "PosX": -328,
+    "Type": "response",
+    "PosY": 447,
+    "User": "9C-B6-D0-E7-72-19",
+    "Content": "r/ additionally, this argument and the following arguments of the preface also present a potential site of dialectical tension between the Mouffe/Laclau concepts of 'articulation' as the most meaningful political act, although potentially not if one is ready to contain all political events within the superstructure, at which point it is a weird relation to Feyerabend's description of Galileo's placing of relative and operative motion within the bubble of non-operative absolute motion... very interesting.",
+    "bib": {"source": 0},
+    "ID": 10,
+    "Base": "r/ additionally, this argument and the following arguments of the preface also present a potential site of dialectical tension between the Mouffe/Laclau concepts of 'articulation' as the most meaningful political act, although potentially not if one is ready to contain all political events within the superstructure, at which point it is a weird relation to Feyerabend's description of Galileo's placing of relative and operative motion within the bubble of non-operative absolute motion... very interesting."
+  },
+  {
+    "PosX": -334,
+    "Type": "response",
+    "PosY": 619,
+    "User": "9C-B6-D0-E7-72-19",
+    "Content": "r/ Mouffe Laclau = Hegemony and Socialist Strategy, Feyerabend = Against Method",
+    "bib": {"source": 0},
+    "ID": 11,
+    "Base": "r/ Mouffe Laclau = Hegemony and Socialist Strategy, Feyerabend = Against Method"
+  },
+  {
+    "PosX": 225,
+    "Type": "quote",
+    "PosY": 880,
+    "User": "9C-B6-D0-E7-72-19",
+    "Content": "q/ \"At the entrance to science, as at the entrance to hell, the demand must be made: Qui si convien lasciare ogni sospetto, Ogni vilta convien che qui sia morta // From Dante, Divina Commedia - Here must all distrust be left, All cowardice must here be dead\"",
+    "bib": {"source": 0},
+    "ID": 12,
+    "Base": "q/ \"At the entrance to science, as at the entrance to hell, the demand must be made: Qui si convien lasciare ogni sospetto, Ogni vilta convien che qui sia morta // From Dante, Divina Commedia - Here must all distrust be left, All cowardice must here be dead\""
+  },
+  {
+    "PosX": 702,
+    "Type": "response",
+    "PosY": 905,
+    "User": "9C-B6-D0-E7-72-19",
+    "Content": "r/ what a fabulous way to begin - seems to declare a scientific spirit of irreverance, but also with the class of a very idealistic poetry",
+    "bib": {"source": 0},
+    "ID": 13,
+    "Base": "r/ what a fabulous way to begin - seems to declare a scientific spirit of irreverance, but also with the class of a very idealistic poetry"
+  },
+  {
+    "PosX": 683,
+    "Type": "other",
+    "PosY": 1104,
+    "User": "9C-B6-D0-E7-72-19",
+    "Content": "Part 1: The Commodity",
+    "bib": {"source": 0},
+    "ID": 14,
+    "Base": "Part 1: The Commodity"
+  },
+  {
+    "PosX": 129,
+    "Type": "quote",
+    "PosY": 1207,
+    "User": "9C-B6-D0-E7-72-19",
+    "Content": "q/ \"The wealth of bourgeois soicety, at first sight, presents itself as an immense accumulation of commodities, its unit being a single commodity. Every comodity, however, has a twofold aspect - use-value and exchange-value.\"",
+    "bib": {"source": 0},
+    "ID": 15,
+    "Base": "q/ \"The wealth of bourgeois soicety, at first sight, presents itself as an immense accumulation of commodities, its unit being a single commodity. Every comodity, however, has a twofold aspect - use-value and exchange-value.\""
+  },
+  {
+    "PosX": 110,
+    "Type": "quote",
+    "PosY": 1343,
+    "User": "9C-B6-D0-E7-72-19",
+    "Content": "q/ \"To be a use-value is evidently a necessary prerequisite of the commodity, but it is immaterial to the use-value whether it is a commodity. Use-value as such, since it is independent of the determinate economic form, lies outside the sphere of investigation of political economy. It belongs in this sphere only when it is itself a determinate form. Use-value is the immediate physical entitiy in which a definite economic relationship - exchange-value - is expressed.\"",
+    "bib": {"source": 0},
+    "ID": 16,
+    "Base": "q/ \"To be a use-value is evidently a necessary prerequisite of the commodity, but it is immaterial to the use-value whether it is a commodity. Use-value as such, since it is independent of the determinate economic form, lies outside the sphere of investigation of political economy. It belongs in this sphere only when it is itself a determinate form. Use-value is the immediate physical entitiy in which a definite economic relationship - exchange-value - is expressed.\""
+  },
+  {
+    "PosX": 598,
+    "Type": "response",
+    "PosY": 1349,
+    "User": "9C-B6-D0-E7-72-19",
+    "Content": "r/ would this mean that housing, the wohnung or the haus, are capable of being externalized from political economy, even if they are objects comprised of other commodity objects? Or would each stage of the object construction need to resis the conversion into exchange-value in order to purely exist as use-value objects?",
+    "bib": {"source": 0},
+    "ID": 17,
+    "Base": "r/ would this mean that housing, the wohnung or the haus, are capable of being externalized from political economy, even if they are objects comprised of other commodity objects? Or would each stage of the object construction need to resis the conversion into exchange-value in order to purely exist as use-value objects?"
+  },
+  {
+    "PosX": 152,
+    "Type": "quote",
+    "PosY": 1588,
+    "User": "9C-B6-D0-E7-72-19",
+    "Content": "q/ \"Quite irrespective, therefore, of their natural form of existence, and without regard to the specific character of the needs they satisfy as use-values, commodities in definite quantities are congruent, they take one another's place in teh exchange process, are regarded as equivalents, and despite their motley appearance have a common denominator.\"",
+    "bib": {"source": 0},
+    "ID": 18,
+    "Base": "q/ \"Quite irrespective, therefore, of their natural form of existence, and without regard to the specific character of the needs they satisfy as use-values, commodities in definite quantities are congruent, they take one another's place in teh exchange process, are regarded as equivalents, and despite their motley appearance have a common denominator.\""
+  },
+  {
+    "PosX": 627,
+    "Type": "response",
+    "PosY": 1658,
+    "User": "9C-B6-D0-E7-72-19",
+    "Content": "r/ directly relating to Prole.info's \"The Housing Monster\", it is in this moment that one can regard the specificity of the architectural object. While (as Marx a few sentences before) tins of shoe polish can be aggregated into exchange value equivalency through enumeration, they also possess a comparable use-value which can be assessed - 10 tins of shoe polish and a gallon of shoe polish have definite relations within their use-value. This is quite distinct from the architectural object which does not contain comparability within the internal set until it is expressed in exchange value - exchange value is the only point of comparison, rather than being able to also be compared in terms of use. A very interesting development, if only perhaps because I am behind the curve on the issue.",
+    "bib": {"source": 0},
+    "ID": 19,
+    "Base": "r/ directly relating to Prole.info's \"The Housing Monster\", it is in this moment that one can regard the specificity of the architectural object. While (as Marx a few sentences before) tins of shoe polish can be aggregated into exchange value equivalency through enumeration, they also possess a comparable use-value which can be assessed - 10 tins of shoe polish and a gallon of shoe polish have definite relations within their use-value. This is quite distinct from the architectural object which does not contain comparability within the internal set until it is expressed in exchange value - exchange value is the only point of comparison, rather than being able to also be compared in terms of use. A very interesting development, if only perhaps because I am behind the curve on the issue."
+  },
+  {
+    "PosX": 142,
+    "Type": "quote",
+    "PosY": 1944,
+    "User": "9C-B6-D0-E7-72-19",
+    "Content": "q/ \"Use-values serve directly as means of existence. But, on the other hand, these means of existence are themselves the products of social activity, the result of expended human energy, materialized labour. As objectification of social labour, all commodities are crystallisations of the same substance.\"",
+    "bib": {"source": 0},
+    "ID": 20,
+    "Base": "q/ \"Use-values serve directly as means of existence. But, on the other hand, these means of existence are themselves the products of social activity, the result of expended human energy, materialized labour. As objectification of social labour, all commodities are crystallisations of the same substance.\""
+  },
+  {
+    "PosX": 605,
+    "Type": "response",
+    "PosY": 2013,
+    "User": "9C-B6-D0-E7-72-19",
+    "Content": "r/ certainly puts a new spin on \"materiality\" studies",
+    "bib": {"source": 0},
+    "ID": 21,
+    "Base": "r/ certainly puts a new spin on \"materiality\" studies"
+  },
+  {
+    "PosX": 134,
+    "Type": "quote",
+    "PosY": 2099,
+    "User": "9C-B6-D0-E7-72-19",
+    "Content": "q/ \"In fact, what appears objectively as diversity of the use-values, appears, when looked at dynamically, as diversity of the activities which produce those use-alues. Since the particular form of this labour is equally irrelevant. Different use-values are, moreover, products of the activity of different individuals and therefore the result of individually different kinds of labour. But as exchange-values they represent the same homogeneous labour, i.e., labour in which the individual characteristics of the workers are obliterated. Labour which creates exchange-value is thus abstract general labour.\"",
+    "bib": {"source": 0},
+    "ID": 22,
+    "Base": "q/ \"In fact, what appears objectively as diversity of the use-values, appears, when looked at dynamically, as diversity of the activities which produce those use-alues. Since the particular form of this labour is equally irrelevant. Different use-values are, moreover, products of the activity of different individuals and therefore the result of individually different kinds of labour. But as exchange-values they represent the same homogeneous labour, i.e., labour in which the individual characteristics of the workers are obliterated. Labour which creates exchange-value is thus abstract general labour.\""
+  },
+  {
+    "PosX": 589,
+    "Type": "response",
+    "PosY": 2132,
+    "User": "9C-B6-D0-E7-72-19",
+    "Content": "r/ if there is a granular specificity in one, there is a plasticity to the other - another connection to material practices...",
+    "bib": {"source": 0},
+    "ID": 23,
+    "Base": "r/ if there is a granular specificity in one, there is a plasticity to the other - another connection to material practices..."
+  },
+  {
+    "PosX": 195,
+    "Type": "quote",
+    "PosY": 2358,
+    "User": "9C-B6-D0-E7-72-19",
+    "Content": "q/ \"Just as motion is measured in time, so is labour by labour-time.\"",
+    "bib": {"source": 0},
+    "ID": 24,
+    "Base": "q/ \"Just as motion is measured in time, so is labour by labour-time.\""
+  },
+  {
+    "PosX": 123,
+    "Type": "quote",
+    "PosY": 2469,
+    "User": "9C-B6-D0-E7-72-19",
+    "Content": "q/ \"Labour-time is the living state of existence of labour, irrespective of its form, its content and its individual featrues; it is the quantitative aspect of labour as well as its inherent measure. ",
+    "bib": {"source": 0},
+    "ID": 25,
+    "Base": "q/ \"Labour-time is the living state of existence of labour, irrespective of its form, its content and its individual featrues; it is the quantitative aspect of labour as well as its inherent measure. "
+  },
+  {
+    "PosX": 191,
+    "Type": "quote",
+    "PosY": 2585,
+    "User": "9C-B6-D0-E7-72-19",
+    "Content": "q/ \"The corresponding quantities of different use-values containing the same amount of labour-time are equivalents; thatis, all use-values are equivalents when taken in proportions which contain the same amount of expended, materialized labour-time. Regarded as exchange-values all commodities are merely definite quantities of congealed labour-time.\"",
+    "bib": {"source": 0},
+    "ID": 26,
+    "Base": "q/ \"The corresponding quantities of different use-values containing the same amount of labour-time are equivalents; thatis, all use-values are equivalents when taken in proportions which contain the same amount of expended, materialized labour-time. Regarded as exchange-values all commodities are merely definite quantities of congealed labour-time.\""
+  },
+  {
+    "PosX": 129,
+    "Type": "quote",
+    "PosY": 2799,
+    "User": "9C-B6-D0-E7-72-19",
+    "Content": "q/ \"The characteristics of this average labour are different in different countries and different historical epochs, but in any particular society it appears as something given.\"",
+    "bib": {"source": 0},
+    "ID": 27,
+    "Base": "q/ \"The characteristics of this average labour are different in different countries and different historical epochs, but in any particular society it appears as something given.\""
+  },
+  {
+    "PosX": 604,
+    "Type": "response",
+    "PosY": 2778,
+    "User": "9C-B6-D0-E7-72-19",
+    "Content": "r/ so the economies of slave era to feudal era to bourgeois era can each be comparable, as they can with any radical society which might be envisioned - this style of relation is seemingly unavoidable.",
+    "bib": {"source": 0},
+    "ID": 28,
+    "Base": "r/ so the economies of slave era to feudal era to bourgeois era can each be comparable, as they can with any radical society which might be envisioned - this style of relation is seemingly unavoidable."
+  },
+  {
+    "PosX": 131,
+    "Type": "quote",
+    "PosY": 2943,
+    "User": "9C-B6-D0-E7-72-19",
+    "Content": "q/ \"But what is the positio with regard to more complicated labour which, being labour of greater intensity and greater specific gravity, rises above the general level? This kind of labour resolves itself into simple labour; it is simple labour raised to a higher power, so that for example one day of skilled labour may equal three days of simple labour.\"",
+    "bib": {"source": 0},
+    "ID": 29,
+    "Base": "q/ \"But what is the positio with regard to more complicated labour which, being labour of greater intensity and greater specific gravity, rises above the general level? This kind of labour resolves itself into simple labour; it is simple labour raised to a higher power, so that for example one day of skilled labour may equal three days of simple labour.\""
+  },
+  {
+    "PosX": 591,
+    "Type": "response",
+    "PosY": 2974,
+    "User": "9C-B6-D0-E7-72-19",
+    "Content": "r/ again a style of formatting for comparison. there is a web of labour, and the nodal uniformity, one might even connect it to Galloway's protocological language, is the simple form of labour.",
+    "bib": {"source": 0},
+    "ID": 30,
+    "Base": "r/ again a style of formatting for comparison. there is a web of labour, and the nodal uniformity, one might even connect it to Galloway's protocological language, is the simple form of labour."
+  },
+  {
+    "PosX": 289,
+    "Type": "quote",
+    "PosY": 3144,
+    "User": "9C-B6-D0-E7-72-19",
+    "Content": "q/ \"In other words, it is assumed that the labour-time contained in a commodity is the labour-time necessary for its production, namely the labour-time required, under the generally prevailig conditions of production, to produce another unit of the same commodity.\"",
+    "bib": {"source": 0},
+    "ID": 31,
+    "Base": "q/ \"In other words, it is assumed that the labour-time contained in a commodity is the labour-time necessary for its production, namely the labour-time required, under the generally prevailig conditions of production, to produce another unit of the same commodity.\""
+  },
+  {
+    "PosX": -123,
+    "Type": "response",
+    "PosY": 3165,
+    "User": "9C-B6-D0-E7-72-19",
+    "Content": "r/ how does this fall apart when it comes to the various different ways of shirking, of overinflating those labour-time calculations. Currently, its almost advised practice - in my mind - but is there any certain value to this overinflation, and how does it affect the feedback of other commodity values?",
+    "bib": {"source": 0},
+    "ID": 32,
+    "Base": "r/ how does this fall apart when it comes to the various different ways of shirking, of overinflating those labour-time calculations. Currently, its almost advised practice - in my mind - but is there any certain value to this overinflation, and how does it affect the feedback of other commodity values?"
+  },
+  {
+    "PosX": 51,
+    "Type": "quote",
+    "PosY": 3314,
+    "User": "9C-B6-D0-E7-72-19",
+    "Content": "q/ \"The labour of every individual in so far as it manifests itself in exchange - vlaues possesses this social character of equality, and it manifests itself in exchange-value only in so far as it is equated with the labour of all other individuals.\"",
+    "bib": {"source": 0},
+    "ID": 33,
+    "Base": "q/ \"The labour of every individual in so far as it manifests itself in exchange - vlaues possesses this social character of equality, and it manifests itself in exchange-value only in so far as it is equated with the labour of all other individuals.\""
+  },
+  {
+    "PosX": 603,
+    "Type": "response",
+    "PosY": 3319,
+    "User": "9C-B6-D0-E7-72-19",
+    "Content": "r/ very Habermasian in the \"equality\" of liberal bourgeois society - obviously would contain the same contradictions (deflation of immigrant labour-time would be an obvious one) but also brings up the noob question of whether there is an uneven theory of labour-time, one which does not suppose a structural equalization on the sum of universal simple labour... maybe?",
+    "bib": {"source": 0},
+    "ID": 34,
+    "Base": "r/ very Habermasian in the \"equality\" of liberal bourgeois society - obviously would contain the same contradictions (deflation of immigrant labour-time would be an obvious one) but also brings up the noob question of whether there is an uneven theory of labour-time, one which does not suppose a structural equalization on the sum of universal simple labour... maybe?"
+  },
+  {
+    "PosX": 549,
+    "Type": "response",
+    "PosY": 3506,
+    "User": "9C-B6-D0-E7-72-19",
+    "Content": "r/ also, it is still pretty confusing what is meant by \"social\", especially in terms of \"social\" labour. I feel like the semiotics of the term have definitely shifted in meantime, but I wonder what Marx specifically intends...",
+    "bib": {"source": 0},
+    "ID": 35,
+    "Base": "r/ also, it is still pretty confusing what is meant by \"social\", especially in terms of \"social\" labour. I feel like the semiotics of the term have definitely shifted in meantime, but I wonder what Marx specifically intends..."
+  },
+  {
+    "PosX": 57,
+    "Type": "quote",
+    "PosY": 3510,
+    "User": "9C-B6-D0-E7-72-19",
+    "Content": "q/ \"Only as such a universal magnitude does it represent a social magnitude. The labour of an individual can produce exchange -value only if it produces universal equivalents, that is to say, if the individual's labour-time represents universal labour-time or if universal labour-time represents individual labour-time.\"",
+    "bib": {"source": 0},
+    "ID": 36,
+    "Base": "q/ \"Only as such a universal magnitude does it represent a social magnitude. The labour of an individual can produce exchange -value only if it produces universal equivalents, that is to say, if the individual's labour-time represents universal labour-time or if universal labour-time represents individual labour-time.\""
+  },
+  {
+    "PosX": 102,
+    "Type": "quote",
+    "PosY": 3663,
+    "User": "9C-B6-D0-E7-72-19",
+    "Content": "q/ \"In this case the social character of labour is evidently not effected by the labour of the individual assuming the abstract form of universal labour or his product assuming the form of a unviersal equivalent. THe communal system on which this mode of production is based prevents the labour of an individual from becoming private labour and his product the private product of a separate individual; it cause individual labour to appear rather as the direct functio of a member of the social organisation. Labour which manifests itself in exchange-value appears to be the labour of an isolated individual. It becomes social labour by assuming the form of its direct opposite, a abstract universal labour.\"",
+    "bib": {"source": 0},
+    "ID": 37,
+    "Base": "q/ \"In this case the social character of labour is evidently not effected by the labour of the individual assuming the abstract form of universal labour or his product assuming the form of a unviersal equivalent. THe communal system on which this mode of production is based prevents the labour of an individual from becoming private labour and his product the private product of a separate individual; it cause individual labour to appear rather as the direct functio of a member of the social organisation. Labour which manifests itself in exchange-value appears to be the labour of an isolated individual. It becomes social labour by assuming the form of its direct opposite, a abstract universal labour.\""
+  },
+  {
+    "PosX": 543,
+    "Type": "response",
+    "PosY": 3701,
+    "User": "9C-B6-D0-E7-72-19",
+    "Content": "r/ asked and answered, I suppose. So an an uneven description of labor relation would force their contextualizatio to be equalized above (at the social level), where as an even description of labor relation and its unitization to simple labour seems to equalize below, which does not inscribe itself as a unification at the social level, but a unit of disparate agencies within the social sphere. Thus it can be operated into conditions of material unevenness, having no regard to for the sphere construction of the social, but only its unit network exchange.",
+    "bib": {"source": 0},
+    "ID": 38,
+    "Base": "r/ asked and answered, I suppose. So an an uneven description of labor relation would force their contextualizatio to be equalized above (at the social level), where as an even description of labor relation and its unitization to simple labour seems to equalize below, which does not inscribe itself as a unification at the social level, but a unit of disparate agencies within the social sphere. Thus it can be operated into conditions of material unevenness, having no regard to for the sphere construction of the social, but only its unit network exchange."
+  },
+  {
+    "PosX": 1022,
+    "Type": "quote",
+    "PosY": 3606,
+    "User": "9C-B6-D0-E7-72-19",
+    "Content": "q/ \"Lastly, it is a characteristic feature of laour which posits exchange-value that it causes the social relations of individuals to appear in the perverted form of a social relation between things.\"",
+    "bib": {"source": 0},
+    "ID": 39,
+    "Base": "q/ \"Lastly, it is a characteristic feature of laour which posits exchange-value that it causes the social relations of individuals to appear in the perverted form of a social relation between things.\""
+  },
+  {
+    "PosX": 791,
+    "Type": "quote",
+    "PosY": 3965,
+    "User": "9C-B6-D0-E7-72-19",
+    "Content": "q/ \"For example, tailoring if one considers its physical aspect as a distinct productive activity produces a coat, but not the exchange-value of the coat. The exchange-value is produced by it not as tailoring as such but as abstract universal labour, and this belongs to a social fraemwork not devised by the tailor.\"",
+    "bib": {"source": 0},
+    "ID": 40,
+    "Base": "q/ \"For example, tailoring if one considers its physical aspect as a distinct productive activity produces a coat, but not the exchange-value of the coat. The exchange-value is produced by it not as tailoring as such but as abstract universal labour, and this belongs to a social fraemwork not devised by the tailor.\""
+  },
+  {
+    "PosX": 98,
+    "Type": "quote",
+    "PosY": 4097,
+    "User": "9C-B6-D0-E7-72-19",
+    "Content": "q/ \"Thus the exchange-value of a machine, for instance, is detrmined not by the amount of labour-time which it can replace, but by the amount of labour-time expended in its production and therefore required for the production of a new machine of the same type.\"",
+    "bib": {"source": 0},
+    "ID": 41,
+    "Base": "q/ \"Thus the exchange-value of a machine, for instance, is detrmined not by the amount of labour-time which it can replace, but by the amount of labour-time expended in its production and therefore required for the production of a new machine of the same type.\""
+  },
+  {
+    "PosX": 556,
+    "Type": "response",
+    "PosY": 4153,
+    "User": "9C-B6-D0-E7-72-19",
+    "Content": "r/ I suppose this is the only stable appraisal, as when the machine replaces labour, the labour-hour calculation is transformed, and the only way to specify the value of the machine in the transformed condition is to return to these \"expenditures in its production\". Does this necessarily mean, though, that all of the argumentation around reducing labour-hour (either via machine or by other practices) necessities so that there is more social free time are inherently against this economic state? Is it inescapable that increased efficiency only increases the debt one has extended to the production of the last state?",
+    "bib": {"source": 0},
+    "ID": 42,
+    "Base": "r/ I suppose this is the only stable appraisal, as when the machine replaces labour, the labour-hour calculation is transformed, and the only way to specify the value of the machine in the transformed condition is to return to these \"expenditures in its production\". Does this necessarily mean, though, that all of the argumentation around reducing labour-hour (either via machine or by other practices) necessities so that there is more social free time are inherently against this economic state? Is it inescapable that increased efficiency only increases the debt one has extended to the production of the last state?"
+  },
+  {
+    "PosX": 138,
+    "Type": "quote",
+    "PosY": 4464,
+    "User": "9C-B6-D0-E7-72-19",
+    "Content": "q/ \"The commodity, however, is the direct unity of use-value and exchange-value, and at the same time it is a commodity only in relation to toher commodities.\"",
+    "bib": {"source": 0},
+    "ID": 43,
+    "Base": "q/ \"The commodity, however, is the direct unity of use-value and exchange-value, and at the same time it is a commodity only in relation to toher commodities.\""
+  },
+  {
+    "PosX": 137,
+    "Type": "quote",
+    "PosY": 4577,
+    "User": "9C-B6-D0-E7-72-19",
+    "Content": "q/ \"Only by being alienated as a use-value - an alienation which depends on whether it is able to prove in the exchange process that it is a needed object - is it really converted from the form of coffee into that of linen, thus becoming a universal equivalent and really representing exchange-value for all other commodities.\"",
+    "bib": {"source": 0},
+    "ID": 44,
+    "Base": "q/ \"Only by being alienated as a use-value - an alienation which depends on whether it is able to prove in the exchange process that it is a needed object - is it really converted from the form of coffee into that of linen, thus becoming a universal equivalent and really representing exchange-value for all other commodities.\""
+  },
+  {
+    "PosX": 584,
+    "Type": "response",
+    "PosY": 4610,
+    "User": "9C-B6-D0-E7-72-19",
+    "Content": "r/ follows the statement that this flattening into universal commodity is the moment of \"reification of universal labour-time\". I am unsure of how this as a process is to be avoided, regardless of social structure, outside of universal production toward the unified state - one which is certainly possible within marxist strategy, but wholly against the anarchist tradition...",
+    "bib": {"source": 0},
+    "ID": 45,
+    "Base": "r/ follows the statement that this flattening into universal commodity is the moment of \"reification of universal labour-time\". I am unsure of how this as a process is to be avoided, regardless of social structure, outside of universal production toward the unified state - one which is certainly possible within marxist strategy, but wholly against the anarchist tradition..."
+  },
+  {
+    "PosX": 50,
+    "Type": "response",
+    "PosY": 4738,
+    "User": "9C-B6-D0-E7-72-19",
+    "Content": "r/ speaking on the \"crystallization\" of the universal commodity into its determinate money form:",
+    "bib": {"source": 0},
+    "ID": 46,
+    "Base": "r/ speaking on the \"crystallization\" of the universal commodity into its determinate money form:"
+  },
+  {
+    "PosX": 93,
+    "Type": "quote",
+    "PosY": 4822,
+    "User": "9C-B6-D0-E7-72-19",
+    "Content": "q/ \"A social relation of production appears as something existing apart from individual human beings, and the distinctive relations into which they enter in the course of production in society appear as teh specific properties of a thing - it is this perverted appearance, this prosaically real, and by no means imaginary, mystification that is characteristic of all social forms of labour positing exchange-value. This perverted appearance manifests itself merely in a more striking manner in money than it does in commodities.\"",
+    "bib": {"source": 0},
+    "ID": 47,
+    "Base": "q/ \"A social relation of production appears as something existing apart from individual human beings, and the distinctive relations into which they enter in the course of production in society appear as teh specific properties of a thing - it is this perverted appearance, this prosaically real, and by no means imaginary, mystification that is characteristic of all social forms of labour positing exchange-value. This perverted appearance manifests itself merely in a more striking manner in money than it does in commodities.\""
+  },
+  {
+    "PosX": 539,
+    "Type": "response",
+    "PosY": 4909,
+    "User": "9C-B6-D0-E7-72-19",
+    "Content": "r/ it alsmost seems as if this process of separating individual labour-hours into the mass of equivalence is related to the dividuations which Foucault describes in Biopolitics and Deleuze obviously brings up through Postscript on the Control Societies. Although it comes (recognizing that monetary development is not a bourgeois invention) well before other systems of dividuation, it certainly has a striking knack for stripping the individual aspect of embodied labor qualities into a list for biopolitical analytics... hmmm.",
+    "bib": {"source": 0},
+    "ID": 48,
+    "Base": "r/ it alsmost seems as if this process of separating individual labour-hours into the mass of equivalence is related to the dividuations which Foucault describes in Biopolitics and Deleuze obviously brings up through Postscript on the Control Societies. Although it comes (recognizing that monetary development is not a bourgeois invention) well before other systems of dividuation, it certainly has a striking knack for stripping the individual aspect of embodied labor qualities into a list for biopolitical analytics... hmmm."
+  },
+  {
+    "PosX": 127,
+    "Type": "quote",
+    "PosY": 5091,
+    "User": "9C-B6-D0-E7-72-19",
+    "Content": "q/ \"The outcome is that one commodity or sometimes several commodities representing the most common use-value come occasionally to sere as money. Even when no immediate need for these use-values exists, the demand for them is bound to be more general than that for other use-values, since they constitute the most substantial physical element in wealth.\"",
+    "bib": {"source": 0},
+    "ID": 49,
+    "Base": "q/ \"The outcome is that one commodity or sometimes several commodities representing the most common use-value come occasionally to sere as money. Even when no immediate need for these use-values exists, the demand for them is bound to be more general than that for other use-values, since they constitute the most substantial physical element in wealth.\""
+  },
+  {
+    "PosX": 566,
+    "Type": "response",
+    "PosY": 5189,
+    "User": "9C-B6-D0-E7-72-19",
+    "Content": "r/ hehe, so obviously this would have been cigarettes in prison economies until they disallowed smoking in prisons.",
+    "bib": {"source": 0},
+    "ID": 50,
+    "Base": "r/ hehe, so obviously this would have been cigarettes in prison economies until they disallowed smoking in prisons."
+  },
+  {
+    "PosX": 129,
+    "Type": "quote",
+    "PosY": 5340,
+    "User": "9C-B6-D0-E7-72-19",
+    "Content": "q/ \"Use-value, not exchange-alue, is the purpose of the whole system of production, and use-values accordingly cease to be use-values and become means of exchange, or commodities, only when a larger amount of them has been produced than is required for consumption.\"",
+    "bib": {"source": 0},
+    "ID": 51,
+    "Base": "q/ \"Use-value, not exchange-alue, is the purpose of the whole system of production, and use-values accordingly cease to be use-values and become means of exchange, or commodities, only when a larger amount of them has been produced than is required for consumption.\""
+  },
+  {
+    "PosX": 615,
+    "Type": "response",
+    "PosY": 5393,
+    "User": "9C-B6-D0-E7-72-19",
+    "Content": "r/ so the presence of commodities is simultaneous with the formation of liquidity, basically...",
+    "bib": {"source": 0},
+    "ID": 52,
+    "Base": "r/ so the presence of commodities is simultaneous with the formation of liquidity, basically..."
+  },
+  {
+    "PosX": 138,
+    "Type": "quote",
+    "PosY": 5528,
+    "User": "9C-B6-D0-E7-72-19",
+    "Content": "q/ \"Proceeding from this quite superficial point of view, an ingenious British economist has rightly maintained that money is merely a material instrument, like a ship or a steam engine, and not an expression of social relation of production, and hence is not an economic category. It is therefore simply a malpractice to deal with this subject in political economy, which in fact has nothing in common with technology.\"",
+    "bib": {"source": 0},
+    "ID": 53,
+    "Base": "q/ \"Proceeding from this quite superficial point of view, an ingenious British economist has rightly maintained that money is merely a material instrument, like a ship or a steam engine, and not an expression of social relation of production, and hence is not an economic category. It is therefore simply a malpractice to deal with this subject in political economy, which in fact has nothing in common with technology.\""
+  },
+  {
+    "PosX": 674,
+    "Type": "response",
+    "PosY": 5555,
+    "User": "9C-B6-D0-E7-72-19",
+    "Content": "r/ Marx ends on the note that the process as a whole form \"circulation\", which seems in line.",
+    "bib": {"source": 0},
+    "ID": 54,
+    "Base": "r/ Marx ends on the note that the process as a whole form \"circulation\", which seems in line."
+  }
+]

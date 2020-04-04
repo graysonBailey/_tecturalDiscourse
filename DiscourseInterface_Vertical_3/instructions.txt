@@ -1,0 +1,39 @@
+/// discourse interface
+
+
+1. choice from the sets of JSON files available in the project directory
+or create a new discourse space.
+
+2. if you create a new one, choose the discourse spaces name
+
+3. in the general discourse area there are a couple of "planes" which have different forms of interaction.
+Upon entering, the user isn't in either one, so the buttons on the left hand need to be used to navigate between
+either the "geist plane" or the "relations plane".
+
+4. the "geist plane" is the plane of input, which allows you to store quotes and responses, and generally
+other types of textual discourse. Immediately upon clicking, a text box will immediately pop up, but one
+can press the escape button to cancel out of the text box. Otherwise just click anywhere else and the text input
+box will appear at that chosen location.
+
+5. As for right now, the input types are divided by a different prefix: "r" for response, "q" for quote, and
+everything else being counted as "other". As for quotes, bibliographic information is taken, but in really
+stringent method that is expected at the end of the quote and is written in the text input explanation.
+
+6. the "relations plane" can be used to see and log relations among the various discourse text elements. In order
+to log a connection, click within one text box then click within another. A connection between the two closest
+corners should be visualized from there.
+
+7. scrolling vertically can be achieved by mouseWheel or touchpad. 
+
+8. currently there is no editing process for text boxes which have been made in error, outside of editing the
+JSON file itself. Also, there isn't a way to navigate back to the opening pages outside of restarting the
+sketch, but that isn't so huge of a thing that it needs to be solved immediately in case of switching to
+other tools for presentation.
+
+9. The discourse elements and sets of relations among the elements are saved separately as JSON files in
+the project directory, which can have the additional use of analysis where applicable, though combining
+everything into one aggregated JSON structure is of interest. 
+
+10. connectivity so that multiple users can interactively and simultaneously use the tool has not been
+broached, though research is being done into the existence of tools / models which already achieve that
+style of connection.
