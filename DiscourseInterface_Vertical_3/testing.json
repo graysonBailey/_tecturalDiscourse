@@ -1,0 +1,32 @@
+[
+  {
+    "PosX": 515,
+    "Type": "other",
+    "PosY": 426,
+    "User": "F4-96-34-98-5A-3F",
+    "Content": "whaaaaaaatishappeningggggg",
+    "bib": {"source": 0},
+    "ID": 0,
+    "Base": "whaaaaaaatishappeningggggg"
+  },
+  {
+    "PosX": 423,
+    "Type": "other",
+    "PosY": 130,
+    "User": "F4-96-34-98-5A-3F",
+    "Content": "i refuse to commit",
+    "bib": {"source": 0},
+    "ID": 1,
+    "Base": "i refuse to commit"
+  },
+  {
+    "PosX": 152,
+    "Type": "other",
+    "PosY": 656,
+    "User": "F4-96-34-98-5A-3F",
+    "Content": "commitment is for chauvanistic capitalists",
+    "bib": {"source": 0},
+    "ID": 2,
+    "Base": "commitment is for chauvanistic capitalists"
+  }
+]
