@@ -40,13 +40,14 @@
     "Base": "I'll always commit... to a hoagie!"
   },
   {
-    "PosX": 608,
+    "PosX": 532,
     "Type": "other",
-    "PosY": 829,
-    "User": "F4-96-34-98-5A-3F",
-    "Content": "some people say hot dogs are sandwiches.....those people are imbeciles",
+    "PosY": 794,
+    "User": "9C-B6-D0-E7-72-19",
+    "Content": "I guess you're a bomber, baby",
     "bib": {"source": 0},
-    "ID": 4,
-    "Base": "some people say hot dogs are sandwiches.....those people are imbeciles"
+    "ID": 5,
+    "Base": "I guess you're a bomber, baby"
+
   }
 ]
