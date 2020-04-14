@@ -28,5 +28,15 @@
     "bib": {"source": 0},
     "ID": 2,
     "Base": "commitment is for chauvanistic capitalists"
+  },
+  {
+    "PosX": 639,
+    "Type": "other",
+    "PosY": 616,
+    "User": "9C-B6-D0-E7-72-19",
+    "Content": "I'll always commit... to a hoagie!",
+    "bib": {"source": 0},
+    "ID": 3,
+    "Base": "I'll always commit... to a hoagie!"
   }
 ]
