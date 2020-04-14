@@ -18,5 +18,15 @@
     "bib": {"source": 0},
     "ID": 1,
     "Base": "here is what we get"
+  },
+  {
+    "PosX": 545,
+    "Type": "other",
+    "PosY": 535,
+    "User": "9C-B6-D0-E7-72-19",
+    "Content": "Holy Cow, we're updating!",
+    "bib": {"source": 0},
+    "ID": 2,
+    "Base": "Holy Cow, we're updating!"
   }
 ]
