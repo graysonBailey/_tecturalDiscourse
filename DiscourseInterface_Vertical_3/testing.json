@@ -46,8 +46,17 @@
     "User": "9C-B6-D0-E7-72-19",
     "Content": "I guess you're a bomber, baby",
     "bib": {"source": 0},
-    "ID": 5,
+    "ID": 4,
     "Base": "I guess you're a bomber, baby"
-
+  },
+  {
+    "PosX": 584,
+    "Type": "other",
+    "PosY": 885,
+    "User": "F4-96-34-98-5A-3F",
+    "Content": "as long as I'm not a bummer, baby",
+    "bib": {"source": 0},
+    "ID": 5,
+    "Base": "as long as I'm not a bummer, baby"
   }
 ]
